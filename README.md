@@ -10,7 +10,7 @@ _How long your computer takes to find out a password ?_
 ```
 
 ### SUMMARY
-Brute_pass uses brute force computing to find out any password; the time to find it out will depend on your computer power. 
+Brute_pass uses brute force computing to find out any password; the time to find it out will depend on your computer's computing power. 
 
 ### FEATURES
 The chosen password can be composed of:
