@@ -28,11 +28,11 @@ There is no limit for the password length but WATCH OUT, it might take an eterni
 
 ![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen1.png)
 
-**_Script launched in Terminal_ **
+**_Script launched in Terminal_**
 
 ![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen2.png)
 
-**_Log file you get once the password has been found out_ **
+**_Log file you get once the password has been found out_**
 
 ![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen3.png)
 
@@ -46,8 +46,9 @@ There is no limit for the password length but WATCH OUT, it might take an eterni
 * Once typed, the program attempts to find out the password.
 * The program gets started again indefinitely till you either close it or type Ctrl + C
 * Once finished, you'll be shown how long it took to find out the password, how many combinations have been analyzed.
-* These informations will be saved automatically into a log file called "results_log.txt". It will be located where the program is.
-* The log file will keeep informations even if the program is closed and started again.
+* These informations will be saved automatically into a log file called "results_log.txt".  
+   It will be located where the program is (screenshot 3).
+* The log file will keeep informations even if the program is closed and started again (screenshot 4).
 
 ### WHAT IF... you type a password that takes hours,  weeks, months or maybe more to be found out.
 * Close the soft by pressing Ctrl + C after having seen how long it might take to find out the password.
