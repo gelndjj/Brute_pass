@@ -23,10 +23,10 @@ The chosen password can be composed of:
 There is no limit for the password length but WATCH OUT, it might take an eternity according to your computer power.
 
 ### SCREENSHOTS
-![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/screen1.png)
-![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/screen2.png)
-![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/screen3.png)
-![Screenshot](https://github.com/gelndjj/PWD_Encrypted/blob/main/img/screen4.png)
+![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen1.png)
+![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen2.png)
+![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen3.png)
+![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen4.png)
 
 
 ### HOW IT WORKS - CLI
