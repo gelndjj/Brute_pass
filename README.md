@@ -21,7 +21,7 @@ The chosen password can be composed of:
 | digits           |        V        |               |
 | special_char     |        V        |               |
 
-There is no limit for the password length but WATCH OUT, it might take an eternity according to your computer power.
+There is no limit for the password length but WATCH OUT, it might take an eternity according to your computer's computing power.
 
 ### SCREENSHOTS
 **_Script launched in Visual Studio Code_** 
