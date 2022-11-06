@@ -9,7 +9,7 @@ _How long your computer takes to find out a password ?_
 ```
 
 ### SUMMARY
-Brute_pass uses brute force computing to find out any password; the time to find it out will depend on your coomputer power. 
+Brute_pass uses brute force computing to find out any password; the time to find it out will depend on your computer power. 
 
 ### FEATURES
 The chosen password can be composed of:
@@ -23,9 +23,19 @@ The chosen password can be composed of:
 There is no limit for the password length but WATCH OUT, it might take an eternity according to your computer power.
 
 ### SCREENSHOTS
+**_Script launched in Visual Studio Code_** 
+
 ![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen1.png)
+
+**_Script launched in Terminal_ **
+
 ![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen2.png)
+
+**_Log file you get once the password has been found out_ **
+
 ![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen3.png)
+
+**_Log file keeping a history of what you looked for_**
 ![Screenshot](https://github.com/gelndjj/Brute_pass/blob/main/img/screen4.png)
 
 
